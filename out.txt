@@ -1,0 +1,52 @@
+Initial nonempty lists status
+1 samurai 10987654321
+3 galford 87654321
+4 jubei 7654321
+6 ukyo 54321
+7 haohmaru 987654321
+
+After ordering nonempty lists status
+1 samurai 12345678910
+3 galford 12345678
+4 jubei 1234567
+6 ukyo 12345
+7 haohmaru 123456789
+
+Line# 1 samurai
+Soldier# 3 executed
+Soldier# 6 executed
+Soldier# 9 executed
+Soldier# 2 executed
+Soldier# 7 executed
+Soldier# 1 executed
+Soldier# 8 executed
+Soldier# 5 executed
+
+Line# 3 galford
+Soldier# 2 executed
+Soldier# 4 executed
+Soldier# 6 executed
+Soldier# 8 executed
+Soldier# 3 executed
+Soldier# 7 executed
+Soldier# 5 executed
+
+Line# 4 jubei
+Soldier# 3 executed
+Soldier# 6 executed
+Soldier# 2 executed
+Soldier# 7 executed
+
+Line# 6 ukyo
+Soldier# 2 executed
+Soldier# 4 executed
+
+Line# 7 haohmaru
+Soldier# 2 executed
+Soldier# 4 executed
+Soldier# 6 executed
+Soldier# 8 executed
+Soldier# 1 executed
+
+
+Soldier 5 from line 6 will survive
